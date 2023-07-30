@@ -1,0 +1,19 @@
+/*  comment */
+body{
+    background-color: #A1CCD1;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #7C9D96;
+}
+h3{
+    color: #7C9D96;
+}
+
+
