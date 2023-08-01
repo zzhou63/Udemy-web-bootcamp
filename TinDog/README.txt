@@ -1,2 +1,3 @@
-TinDog Project  Combined with CSS, HTML and Bootstrap
+TinDog Project  
+Combined with CSS, HTML and Bootstrap
 
