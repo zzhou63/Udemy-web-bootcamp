@@ -1,0 +1,41 @@
+body {
+    background-color: #393E46;
+    text-align: center;
+}
+  
+/* Container Section   */
+.container{
+    
+    margin: auto;
+    width: 70%;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    margin: 30px;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+}
+
+/* Dice Section */
+.dice{
+    margin: 0 auto;
+    display: inline-block;
+    
+}
+p{
+    font-size: 2rem;
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+}
+img{
+    width: 80%;
+}
+
+/* Footer Section */
+footer{
+    margin-top: 5%;
+   
+    font-family: 'Indie Flower', cursive;
+    color: #EEEEEE;
+}
