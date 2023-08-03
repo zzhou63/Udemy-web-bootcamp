@@ -1,0 +1,6 @@
+Web Application:
+Run on the backend 
+static file runs and loads
+And the JS run on the front site on th front end
+
+BMI Calculator.
